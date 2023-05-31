@@ -1,4 +1,2 @@
-conflict 2
-:x
-
+conflict 1onex
 
